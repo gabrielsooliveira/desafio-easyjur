@@ -1,0 +1,34 @@
+.carousel-books {
+    max-width: 320px;
+    margin: 50px 0;
+}
+
+.carousel-books__track .carousel-item {
+    text-align: center;
+}
+
+.carousel-books__image {
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel-books__title {
+    font-size: 0.9rem;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.carousel-books__arrow {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.carousel-books__arrow--left {
+    left: 10px;
+}
+
+.carousel-books__arrow--right {
+    right: 10px;
+}

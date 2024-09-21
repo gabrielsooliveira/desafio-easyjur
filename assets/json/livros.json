@@ -1,0 +1,51 @@
+{
+    "main": [
+        { 
+            "title": "Harry Potter e a Pedra Filosofal", 
+            "image": "assets/images/livro1.jpg", 
+            "link": "https://www.amazon.com.br/Harry-Potter-Pedra-Filosofal-Rowling/dp/8532530788" 
+        },
+        { 
+            "title": "Harry Potter e a Câmara Secreta", 
+            "image": "assets/images/livro2.jpg", 
+            "link": "https://www.amazon.com.br/Harry-Potter-C%C3%A2mara-Secreta-Rowling/dp/8532530796/ref=sr_1_3?dib=eyJ2IjoiMSJ9.YagZJOtOHvjhLXza55MjKeeWHXosGA-X6iZQTMMTcnbxhIqqrA5Crrcqvz8Y4JLIN6VuG8LYgTQpuYKsLl8MRj-tHp1xZRboyS77t1safT9SP7DvJb2371nPSQm29RyR_1KHXZwQsI44jDJt8-ILILwU4YLMOnKQewwR9u7SfN6OYPvL5x0tcChvqTShhvL2.pUHSfBxgE_JAFmKpeOmZkL_xikm9l2gUjCWYf5WgJB4&dib_tag=se&qid=1726939301&refinements=p_27%3AOlly+Moss&s=books&sr=1-3&text=Olly+Moss" 
+        },
+        { 
+            "title": "Harry Potter e o Prisioneiro de Azkaban", 
+            "image": "assets/images/livro3.jpg", 
+            "link": "https://www.amazon.com.br/Harry-Potter-Prisioneiro-Azkaban-Rowling/dp/853253080X/ref=sr_1_2?dib=eyJ2IjoiMSJ9.YagZJOtOHvjhLXza55MjKeeWHXosGA-X6iZQTMMTcnbxhIqqrA5Crrcqvz8Y4JLIN6VuG8LYgTQpuYKsLl8MRj-tHp1xZRboyS77t1safT9SP7DvJb2371nPSQm29RyR_1KHXZwQsI44jDJt8-ILILwU4YLMOnKQewwR9u7SfN6OYPvL5x0tcChvqTShhvL2.pUHSfBxgE_JAFmKpeOmZkL_xikm9l2gUjCWYf5WgJB4&dib_tag=se&qid=1726939301&refinements=p_27%3AOlly+Moss&s=books&sr=1-2&text=Olly+Moss" 
+        },
+        { 
+            "title": "Harry Potter e o Cálice de Fogo", 
+            "image": "assets/images/livro4.jpg", 
+            "link": "https://www.amazon.com.br/Harry-Potter-C%C3%A1lice-Fogo-Rowling/dp/8532530818/ref=sr_1_4?dib=eyJ2IjoiMSJ9.YagZJOtOHvjhLXza55MjKeeWHXosGA-X6iZQTMMTcnbxhIqqrA5Crrcqvz8Y4JLIN6VuG8LYgTQpuYKsLl8MRj-tHp1xZRboyS77t1safT9SP7DvJb2371nPSQm29RyR_1KHXZwQsI44jDJt8-ILILwU4YLMOnKQewwR9u7SfN6OYPvL5x0tcChvqTShhvL2.pUHSfBxgE_JAFmKpeOmZkL_xikm9l2gUjCWYf5WgJB4&dib_tag=se&qid=1726939301&refinements=p_27%3AOlly+Moss&s=books&sr=1-4&text=Olly+Moss" 
+        },
+        { 
+            "title": "Harry Potter e a Ordem da Fênix", 
+            "image": "assets/images/livro5.jpg", 
+            "link": "https://www.amazon.com.br/Harry-Potter-Ordem-F%C3%AAnix-Rowling/dp/8532530826/ref=sr_1_5?dib=eyJ2IjoiMSJ9.YagZJOtOHvjhLXza55MjKeeWHXosGA-X6iZQTMMTcnbxhIqqrA5Crrcqvz8Y4JLIN6VuG8LYgTQpuYKsLl8MRj-tHp1xZRboyS77t1safT9SP7DvJb2371nPSQm29RyR_1KHXZwQsI44jDJt8-ILILwU4YLMOnKQewwR9u7SfN6OYPvL5x0tcChvqTShhvL2.pUHSfBxgE_JAFmKpeOmZkL_xikm9l2gUjCWYf5WgJB4&dib_tag=se&qid=1726939301&refinements=p_27%3AOlly+Moss&s=books&sr=1-5&text=Olly+Moss" 
+        },
+        { 
+            "title": "Harry Potter e o Enigma do Príncipe", 
+            "image": "assets/images/livro6.jpg", 
+            "link": "https://www.amazon.com.br/Harry-Potter-Enigma-do-Pr%C3%ADncipe/dp/8532530834/ref=sr_1_7?dib=eyJ2IjoiMSJ9.YagZJOtOHvjhLXza55MjKeeWHXosGA-X6iZQTMMTcnbxhIqqrA5Crrcqvz8Y4JLIN6VuG8LYgTQpuYKsLl8MRj-tHp1xZRboyS77t1safT9SP7DvJb2371nPSQm29RyR_1KHXZwQsI44jDJt8-ILILwU4YLMOnKQewwR9u7SfN6OYPvL5x0tcChvqTShhvL2.pUHSfBxgE_JAFmKpeOmZkL_xikm9l2gUjCWYf5WgJB4&dib_tag=se&qid=1726939301&refinements=p_27%3AOlly+Moss&s=books&sr=1-7&text=Olly+Moss" 
+        },
+        { 
+            "title": "Harry Potter e as Relíquias da Morte", 
+            "image": "assets/images/livro7.jpg", 
+            "link": "https://www.amazon.com.br/Harry-Potter-as-Rel%C3%ADquias-Morte/dp/8532530842/ref=sr_1_6?dib=eyJ2IjoiMSJ9.YagZJOtOHvjhLXza55MjKeeWHXosGA-X6iZQTMMTcnbxhIqqrA5Crrcqvz8Y4JLIN6VuG8LYgTQpuYKsLl8MRj-tHp1xZRboyS77t1safT9SP7DvJb2371nPSQm29RyR_1KHXZwQsI44jDJt8-ILILwU4YLMOnKQewwR9u7SfN6OYPvL5x0tcChvqTShhvL2.pUHSfBxgE_JAFmKpeOmZkL_xikm9l2gUjCWYf5WgJB4&dib_tag=se&qid=1726939301&refinements=p_27%3AOlly+Moss&s=books&sr=1-6&text=Olly+Moss" 
+        }
+    ],
+    "derived": [
+        {
+            "title": "Animais Fantásticos e Onde Habitam",
+            "image": "assets/images/derivado2.jpg",
+            "link": "https://www.amazon.com.br/Animais-Fant%C3%A1sticos-Onde-Habitam-Original-ebook/dp/B06XTFQGBF/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=372TTMZTRZEBC&dib=eyJ2IjoiMSJ9.chTPyeTSgHGIMkuUabRMjORNhlEca8AxGdsQ0Ba9Au3qtIevVTbN7wu750y1F8q76eJbSo6CSb74YXfL_NsCHXAiJmaxNUw_00FT06tinLtj0MKFT_zHkDrYNFOzD9XNoMUplK82gK3n93BKwMJI55-AfCL72audvkr0x5REdipeomECMoDGBhIN03a_45py4I7N-ssZNz0i0n6rPOullrTyKlF1xqHsY70bu1IOcMc.KRzN9_J5VSV85oBIbpYq4hU4Ukvera5Fe8NoXA3UyLM&dib_tag=se&keywords=Animais+Fant%C3%A1sticos+e+Onde+Habitam&qid=1726940945&s=books&sprefix=animais+fant%C3%A1sticos+e+onde+habitam%2Cstripbooks%2C194&sr=1-2"
+        },
+        {
+            "title": "Animais fantásticos: os crimes de Grindelwald",
+            "image": "assets/images/derivado3.jpg",
+            "link": "https://www.amazon.com.br/Animais-Fant%C3%A1sticos-Os-Crimes-Grindelwald/dp/8532531318/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=372TTMZTRZEBC&dib=eyJ2IjoiMSJ9.chTPyeTSgHGIMkuUabRMjORNhlEca8AxGdsQ0Ba9Au3qtIevVTbN7wu750y1F8q76eJbSo6CSb74YXfL_NsCHXAiJmaxNUw_00FT06tinLtj0MKFT_zHkDrYNFOzD9XNoMUplK82gK3n93BKwMJI55-AfCL72audvkr0x5REdipeomECMoDGBhIN03a_45py4I7N-ssZNz0i0n6rPOullrTyKlF1xqHsY70bu1IOcMc.KRzN9_J5VSV85oBIbpYq4hU4Ukvera5Fe8NoXA3UyLM&dib_tag=se&keywords=Animais+Fant%C3%A1sticos+e+Onde+Habitam&qid=1726940945&s=books&sprefix=animais+fant%C3%A1sticos+e+onde+habitam%2Cstripbooks%2C194&sr=1-3"
+        }
+    ]
+}
